@@ -30,9 +30,9 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - Clean architecture
-  - TDD
-  -Kubernetes
+  - Clean architecture.
+  - TDD.
+  - Kubernetes.
 
 </div>
 
