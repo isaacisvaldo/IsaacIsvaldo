@@ -1,4 +1,3 @@
-
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 
@@ -7,8 +6,7 @@
   - 📚 Information System student at UFPI.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**
-
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**.
   - 💬 Ask me about **any technology**.
 
   - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
@@ -59,7 +57,7 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+  <code><img height="25" src="https://github.com/UjwalKandi/UjwalKandi/blob/c45f674e1145d04d97cd57f4e9dac336c5e29600/svg/jira-3.svg" alt="Jira"></code>
 </div>
 
 
@@ -67,18 +65,20 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/IsaacIsvaldo">
-    <img width=450 height=170 align="center" alt="IsaacIsvaldo" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="IsaacIsvaldo" src="https://github-readme-stats.vercel.app/api?username=IsaacIsvaldo&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/IsaacIsvaldo">
-    <img align="center" alt="IsaacIsvaldo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="IsaacIsvaldo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacIsvaldo&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
 <div>
 
   ## 📫 &nbsp;My Contacts
- 
- 
+  [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-isvaldo-bunga/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gellmesquita/)
+
+
 
 
 <!-- ![Snake animation](https://github.com/IsaacIsvaldo/IsaacIsvaldo/blob/output/github-contribution-grid-snake.svg) -->
