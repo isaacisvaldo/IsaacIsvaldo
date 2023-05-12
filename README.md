@@ -3,12 +3,10 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
+   - 📚 Computer engineering student at ISPTEC.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**.
+ - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 💬 Ask me about **any technology**.
-
   - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
 
   <br>
@@ -76,9 +74,7 @@
 
   ## 📫 &nbsp;My Contacts
   [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-isvaldo-bunga/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gellmesquita/)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaacisvaldo/)
 
 
 <!-- ![Snake animation](https://github.com/IsaacIsvaldo/IsaacIsvaldo/blob/output/github-contribution-grid-snake.svg) -->
