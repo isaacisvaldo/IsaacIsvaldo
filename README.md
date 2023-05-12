@@ -5,10 +5,8 @@
 
    - 📚 Computer engineering student at ISPTEC.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
- - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - 💬 Ask me about **any technology**.
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
-
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 💬 Ask me about **any technology**.
   <br>
   
 
