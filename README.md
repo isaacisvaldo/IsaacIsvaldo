@@ -9,9 +9,10 @@
 - 💬 Ask me about **any technology**.
   <br>
   
-
+<br>
 </div>
-
+<br>
+<br>
 
 <div align="center">
 
@@ -31,6 +32,7 @@
 
   - Clean architecture
   - TDD
+  -Kubernetes
 
 </div>
 
