@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="100%" width="100%"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="50%" width="100%"></p>
 
 
   ## 🧭 &nbsp;About Me
