@@ -4,7 +4,7 @@
 
   ## 🧭 &nbsp;About Me
 
-   - 📚 Computer engineering student at ISPTEC.
+   - 📚 Computer engineering student at UGS.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💬 Ask me about **any technology**.
