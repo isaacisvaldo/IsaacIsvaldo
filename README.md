@@ -90,6 +90,6 @@ With more than three years of experience, I stand out in transforming concepts i
 <div align="center">
 <p>Total de visitas no perfil:</p>
 <p>
-    <img src="https://profile-counter.glitch.me/JulianaSobaJava/count.svg"/>
+    <img src="https://profile-counter.glitch.me/IsaacIsvaldo/count.svg"/>
 </p>
 </div>
