@@ -88,7 +88,7 @@ With more than three years of experience, I stand out in transforming concepts i
   
 <br>
 <div align="center">
-<p>Total de visitas no perfil:</p>
+<p>Total profile visits:</p>
 <p>
     <img src="https://profile-counter.glitch.me/IsaacIsvaldo/count.svg"/>
 </p>
