@@ -4,8 +4,8 @@
 
   ## 🧭 &nbsp;About Me
 
-  Como desenvolvedor full-stack, sou proficiente em todas as etapas do desenvolvimento de software, desde a criação de interfaces de usuário envolventes até a construção de sistemas robustos no back-end. Minha expertise abrange diversas tecnologias, incluindo Typescript, React, React Native, Node.js e Java, permitindo-me criar soluções completas para aplicações web e móveis.
-Com mais de três anos de experiência, destaco-me na transformação de conceitos em aplicações práticas e eficazes. Minha paixão pelo desenvolvimento de software e meu compromisso com a aprendizagem contínua me mantêm atualizado com as últimas tendências tecnológicas. Estou pronto para enfrentar desafios, solucionar problemas e colaborar em equipes de alto desempenho, sempre buscando a inovação e a excelência técnica. Acredito que, com persistência e foco, nenhum desafio é insuperável.
+As a full-stack developer, I am proficient in all stages of software development, from creating engaging user interfaces to building robust systems on the backend. My expertise spans diverse technologies, including Typescript, React, React Native, Node.js and Java, allowing me to create complete solutions for web and mobile applications.
+With more than three years of experience, I stand out in transforming concepts into practical and effective applications. My passion for software development and my commitment to continuous learning keep me up to date with the latest technology trends. I am ready to face challenges, solve problems and collaborate in high-performance teams, always seeking innovation and technical excellence. I believe that, with persistence and focus, no challenge is insurmountable.
 
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
