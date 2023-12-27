@@ -85,8 +85,11 @@ With more than three years of experience, I stand out in transforming concepts i
        alt="snake" /></a>
 </div>
 
-
-<!-- ## 📚 &nbsp;My Projects -->
-
-
-------
+  
+<br>
+<div align="center">
+<p>Total de visitas no perfil:</p>
+<p>
+    <img src="https://profile-counter.glitch.me/JulianaSobaJava/count.svg"/>
+</p>
+</div>
