@@ -4,7 +4,9 @@
 
   ## 🧭 &nbsp;About Me
 
-   - 📚 Computer engineering student at UGS.
+  Como desenvolvedor full-stack, sou proficiente em todas as etapas do desenvolvimento de software, desde a criação de interfaces de usuário envolventes até a construção de sistemas robustos no back-end. Minha expertise abrange diversas tecnologias, incluindo Typescript, React, React Native, Node.js e Java, permitindo-me criar soluções completas para aplicações web e móveis.
+Com mais de três anos de experiência, destaco-me na transformação de conceitos em aplicações práticas e eficazes. Minha paixão pelo desenvolvimento de software e meu compromisso com a aprendizagem contínua me mantêm atualizado com as últimas tendências tecnológicas. Estou pronto para enfrentar desafios, solucionar problemas e colaborar em equipes de alto desempenho, sempre buscando a inovação e a excelência técnica. Acredito que, com persistência e foco, nenhum desafio é insuperável.
+
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💬 Ask me about **any technology**.
@@ -17,7 +19,7 @@
 
 <div align="center">
 
-  `Developer and IT enthusiast`
+  `full-stack Developer`
   <br>
 
   `=========================`
@@ -49,7 +51,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
